@@ -13,3 +13,5 @@ Install address-book by cloning this repository.
 ## Technologies Used
 
 JavaScript and jQuery
+### Author 
+amina ali (https://github.com/amishali/address-book)
